@@ -1,0 +1,26 @@
+
+.logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 2px;
+   
+  }
+  .rightside{
+    padding-top: 46px;
+  }
+  .rightsider{
+    text-align: center;
+    color:white;
+  }
+  .header{
+    color: white;
+    padding-top: 10px;
+  }
+  .sidehead{
+    color: white;
+    padding-top: 58px;
+    padding-bottom: 20px;
+  }
