@@ -50,7 +50,7 @@ const { Header, Footer, Sider } = Layout;
                       </div>
                         </Sider>
                 </Layout>
-        <Footer  style={{ backgroundColor:"white"},{textAlign:"center"}}>Internship @ CREVICE</Footer>
+        <Footer  style={{textAlign:"center"}}>Internship @ CREVICE</Footer>
         </Layout>
     
             </div>
